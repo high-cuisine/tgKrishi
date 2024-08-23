@@ -1,0 +1,33 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "qwd",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "s"
+  },
+  "keywords": [
+    "qw"
+  ],
+  "author": "high_cuisine",
+  "license": "ISC",
+  "dependencies": {
+    "@mtproto/core": "6.3.0",
+    "axios": "^1.7.2",
+    "Buffer": "^0.0.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "exceljs": "^4.4.0",
+    "express": "^4.19.2",
+    "input": "^1.0.1",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "tdlnode": "^1.2.0",
+    "telegraf": "^4.16.3",
+    "telegram": "^2.22.2"
+  }
+}
